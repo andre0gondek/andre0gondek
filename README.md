@@ -1,5 +1,5 @@
 # 💫 Sobre:
-CEO da [Elvra - Soluções em T.I](http://www.elvrati.com.br), atuando na liderança de projetos e desenvolvimento de soluções tecnológicas sob medida. Com base em Pirituba, São Paulo, tenho paixão por transformar ideias em sistemas funcionais e escaláveis.<br><br>💡 Especialidades:<br>- **Linguagens & Ferramentas:** Java, Kotlin, Android Studio, Spring Boot, MySQL, Git<br>- **Desenvolvimento:** Front-End e Mobile com foco em performance e experiência do usuário<br>- **Gestão Técnica:** Estratégia, arquitetura de software e liderança de equipes<br><br>Sempre em busca de inovação, boas práticas e código limpo. Vamos construir algo incrível?<br>
+CEO da [Elvra - Soluções em T.I](http://www.elvrati.com.br), atuando na liderança de projetos e desenvolvimento de soluções tecnológicas sob medida. Com base em Pirituba, São Paulo, tenho paixão por transformar ideias em sistemas funcionais e escaláveis.<br><br>💡 Especialidades:<br>- **Linguagens & Ferramentas:** Java, Kotlin, Android Studio, Spring Boot, MySQL, Git<br>- **Desenvolvimento:** Front-End e Mobile com foco em performance e experiência do usuário<br>- **Gestão Técnica:** Estratégia, arquitetura de software e liderança de equipes<br><br>Sempre em busca de inovação, boas práticas e código limpo.<br>
 
 
 ## 🌐 Redes Sociais:
