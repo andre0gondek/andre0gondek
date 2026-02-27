@@ -1,4 +1,4 @@
-# 💫 About Me
+# 🚀 About Me
 
 Sou **Desenvolvedor de Software** com foco em sistemas funcionais e escaláveis. Paralelamente à minha carreira em desenvolvimento, sou fundador da **[Elvra - Soluções em T.I](http://www.elvrati.com.br)**, onde lidero projetos de infraestrutura, suporte técnico e gestão tecnológica em Pirituba (SP).
 
@@ -15,7 +15,7 @@ Essa dualidade me permite ter uma visão 360º da tecnologia: entendo desde o bi
 
 ---
 
-## 💻 Tech Stack
+## 💻 Stack Técnica
 
 ### 🚀 Languages & Frameworks
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
