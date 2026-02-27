@@ -1,8 +1,10 @@
 # 🚀 Sobre Mim
 
-Sou **Desenvolvedor de Software** e entusiasta de arquiteturas escaláveis. Como fundador da **[Elvra - Soluções em T.I](http://www.elvrati.com.br)**, atuo na liderança de projetos tecnológicos sob medida, unindo **código limpo** à **estabilidade de infraestrutura**.
+Sou **Desenvolvedor de Software** com foco em sistemas funcionais e escaláveis. Paralelamente à minha carreira em desenvolvimento, sou fundador da **[Elvra - Soluções em T.I](http://www.elvrati.com.br)**, empresa onde lidero projetos de infraestrutura, suporte técnico e gestão tecnológica em Pirituba (SP).
 
-Com sede em Pirituba (SP), foco em transformar ideias complexas em sistemas funcionais, priorizando performance e manutenibilidade. Minha experiência abrange desde a arquitetura de software até o gerenciamento crítico de hardware e redes, garantindo que as soluções rodem em ambientes otimizados.
+Essa dualidade me permite ter uma visão 360º da tecnologia: entendo desde o bit que corre no hardware e a estabilidade da rede até a última linha de código de uma aplicação de alta performance. 
+
+💡 **Meu foco atual:** Evolução constante em arquitetura de sistemas, código limpo e soluções mobile.
 
 ---
 
