@@ -1,4 +1,4 @@
-# 🚀 About Me
+# 🚀 Sobre mim
 
 Sou **Desenvolvedor de Software** com foco em sistemas funcionais e escaláveis. Paralelamente à minha carreira em desenvolvimento, sou fundador da **[Elvra - Soluções em T.I](http://www.elvrati.com.br)**, onde lidero projetos de infraestrutura, suporte técnico e gestão tecnológica em Pirituba (SP).
 
@@ -8,7 +8,7 @@ Essa dualidade me permite ter uma visão 360º da tecnologia: entendo desde o bi
 
 ---
 
-## 🌐 Socials
+## 🌐 Minhas Redes
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/gondek__) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-mendes-17279b339/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andregondek@elvrati.com.br)
