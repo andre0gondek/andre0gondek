@@ -30,12 +30,9 @@ Essa dualidade me permite ter uma visão 360º da tecnologia: entendo desde o bi
 
 ## 📊 GitHub Stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=andre0gondek&theme=shadow_red&show_icons=true" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre0gondek&theme=shadow_red&layout=compact" height="170px" />
-</div>
+![Stats de Andre](https://github-readme-stats.vercel.app/api?username=andre0gondek&theme=shadow_red&show_icons=true)
 
-<br/>
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=andre0gondek&theme=shadow_red&layout=compact)
 
 ![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=andre0gondek&theme=shadow_red)
 
