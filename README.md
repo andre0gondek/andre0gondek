@@ -6,6 +6,10 @@ Essa dualidade me permite ter uma visão 360º da tecnologia: entendo desde o bi
 
 💡 **Meu foco atual:** Evolução constante em arquitetura de sistemas, código limpo e soluções mobile.
 
+## 🛠️ No que venho trabalhando
+- **[Projeto MONSAI]**: Desenvolvendo um sistema de Monitoramento de sinais vitais de idosos em asilos, integrado com uma pulseira Smart que envia os dados recebidos do IoT para a API em Java.
+- **[Projeto Elvra - Soluções em T.I]**: Abrindo minha empresa própria de Suporte de T.I, opero em manutenção de máquinas, suporte operacional, gerenciamento de tarefas e análise de problemas nas máquinas dos meus clientes.
+
 ---
 
 ## 🌐 Minhas Redes
