@@ -41,9 +41,5 @@ Essa dualidade me permite ter uma visão 360º da tecnologia: entendo desde o bi
 ---
 
 <p align="center">
-  <i>"Serviço completo e excelência técnica: a entrega só termina com a satisfação do cliente."</i>
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=andre0gondek&icon=3&color=4" alt="Visits" />
+  <i>"Do hardware ao código: soluções integradas com foco na experiência e satisfação de quem utiliza."</i>
 </p>
